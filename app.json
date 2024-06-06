@@ -28,7 +28,7 @@
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "212647015650"
         },
         "IMAGE": {
             "description": "Put bot image url here",
@@ -38,7 +38,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
