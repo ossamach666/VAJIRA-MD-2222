@@ -28,7 +28,7 @@
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "212647015650"
+            "value": "212670537559"
         },
         "IMAGE": {
             "description": "Put bot image url here",
